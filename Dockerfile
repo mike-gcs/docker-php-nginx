@@ -19,6 +19,7 @@ RUN apk add --no-cache \
   php83-intl \
   php83-mbstring \
   php83-mysqli \
+  php83-pdo_mysql \
   php83-opcache \
   php83-openssl \
   php83-phar \
